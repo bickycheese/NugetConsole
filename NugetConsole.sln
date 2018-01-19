@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetConsole", "NugetConsole\NugetConsole.csproj", "{FA2FEE6A-B26E-4918-B110-4F2CA5DF529D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetLibrary", "NugetLibrary\NugetLibrary.csproj", "{5FF48D37-9710-4D88-A8B8-1FF2AE65F743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2FEE6A-B26E-4918-B110-4F2CA5DF529D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2FEE6A-B26E-4918-B110-4F2CA5DF529D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2FEE6A-B26E-4918-B110-4F2CA5DF529D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2FEE6A-B26E-4918-B110-4F2CA5DF529D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF48D37-9710-4D88-A8B8-1FF2AE65F743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF48D37-9710-4D88-A8B8-1FF2AE65F743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF48D37-9710-4D88-A8B8-1FF2AE65F743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF48D37-9710-4D88-A8B8-1FF2AE65F743}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E9906E-815D-4A97-9C43-C51BFD113B98}
+	EndGlobalSection
+EndGlobal
